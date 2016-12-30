@@ -2,7 +2,7 @@ Package.describe({
   summary: 'A meteor package that makes social sharing easy',
   git: 'https://github.com/meteorclub/shareit',
   version: '1.0.2',
-  name: "joshowens:shareit"
+  name: "vmatekole:shareit"
 });
 
 Package.onUse(function(api) {
