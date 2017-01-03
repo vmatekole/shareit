@@ -15,14 +15,14 @@ ShareIt = {
       'googleplus': {
         'description': ''
       },
-      'pinterest': {
+      'email': {
         'description': ''
       },
-      'instagram': {
+      'copyLink': {
         'description': ''
       }
     },
-    siteOrder: ['facebook', 'twitter', 'pinterest', 'googleplus', 'instagram'],
+    siteOrder: ['twitter', 'facebook', 'googleplus', 'email', 'copyLink'],
     classes: "large btn",
     iconOnly: false,
     faSize: '',
