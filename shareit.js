@@ -12,9 +12,6 @@ ShareIt = {
       'twitter': {
         'description': ''
       },
-      'googleplus': {
-        'description': ''
-      },
       'email': {
         'description': ''
       },
@@ -22,7 +19,7 @@ ShareIt = {
         'description': ''
       }
     },
-    siteOrder: ['twitter', 'facebook', 'googleplus', 'email', 'copyLink'],
+    siteOrder: ['twitter', 'facebook', 'email', 'copyLink'],
     classes: "large btn",
     iconOnly: false,
     faSize: '',
